@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dbonkablonna/my-weather-App/static/css/main.eff846c9.css",
+    "main.js": "/dbonkablonna/my-weather-App/static/js/main.6a8aed83.js",
+    "static/js/453.a1a0e49a.chunk.js": "/dbonkablonna/my-weather-App/static/js/453.a1a0e49a.chunk.js",
+    "index.html": "/dbonkablonna/my-weather-App/index.html",
+    "main.eff846c9.css.map": "/dbonkablonna/my-weather-App/static/css/main.eff846c9.css.map",
+    "main.6a8aed83.js.map": "/dbonkablonna/my-weather-App/static/js/main.6a8aed83.js.map",
+    "453.a1a0e49a.chunk.js.map": "/dbonkablonna/my-weather-App/static/js/453.a1a0e49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff846c9.css",
+    "static/js/main.6a8aed83.js"
+  ]
+}
